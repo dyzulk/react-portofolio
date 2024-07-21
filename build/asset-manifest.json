@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b89d4255.css",
+    "main.js": "/static/js/main.2ccf15ae.js",
+    "static/media/endaybot.png": "/static/media/endaybot.780e1b1bacb88a2ecef0.png",
+    "static/media/Kuliah-IT-DyPedia.png": "/static/media/Kuliah-IT-DyPedia.66366d99e7ed014383c6.png",
+    "static/media/fantastic.png": "/static/media/fantastic.8208cb997c3d7e6ae8c2.png",
+    "static/media/shortify.png": "/static/media/shortify.d483f5a0a1cb4ef56df4.png",
+    "index.html": "/index.html",
+    "main.b89d4255.css.map": "/static/css/main.b89d4255.css.map",
+    "main.2ccf15ae.js.map": "/static/js/main.2ccf15ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b89d4255.css",
+    "static/js/main.2ccf15ae.js"
+  ]
+}
